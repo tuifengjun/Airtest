@@ -1,5 +1,5 @@
 Jinja2>=2.8
-Pillow>=3.4.0
+Pillow>=3.4.1
 requests>=2.11.1
 six
 mss==6.1.0
